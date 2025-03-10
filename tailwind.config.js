@@ -20,6 +20,6 @@ module.exports = {
       }
     },
   },
-  plugins: [],
+  plugins: ["nativewind/babel"],
 }
 
