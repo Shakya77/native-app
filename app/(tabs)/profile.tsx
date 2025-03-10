@@ -4,8 +4,7 @@ import { StyleSheet, View, Text } from 'react-native';
 const Profile = () => {
     return (
         <View>
-            <Text>Saved</Text>
-
+            <Text>this the profile page</Text>
         </View>
     );
 }
